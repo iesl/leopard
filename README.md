@@ -5,11 +5,11 @@ This repository contains datasets used for evaluating few-shot performance intro
 
 [Paper](https://arxiv.org/abs/1911.03863)
 ```
-@inproceedings{bansal-etal-2020-self,
+@inproceedings{bansal2020,
     title = "Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks",
     author = "Bansal, Trapit  and Jha, Rishikesh  and McCallum, Andrew",
     booktitle = "Proceedings of the 28th International Conference on Computational Linguistics (COLING)",
-    year = "2020"
+    year = "2020",
 }
 ```
 
